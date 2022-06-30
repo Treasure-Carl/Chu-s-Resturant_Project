@@ -1,0 +1,15 @@
+body{
+	 background-color:;
+    font-size:16px; color: #fff;
+   font-family:'oxygen'sans-serif;
+}
+/**HEADER**/
+#header-nav{background-color:brown;
+    border-radius: 0; border: 0;
+}
+logo-img{
+    background:url(img/resturand/-logo-large.png) no-repeat;width: 150px; height: 150px;
+    margin:10px 15px 10px 0;
+}
+
+
